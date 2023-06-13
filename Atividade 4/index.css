@@ -1,0 +1,19 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 20px;
+
+}
+
+label{
+    display: flex;
+    margin-bottom: 10px;
+
+}
+input[type="number"]{
+    width: 100px;
+}
+
+button{
+    padding: 5px 10px;
+    margin-top: 10px;
+}
